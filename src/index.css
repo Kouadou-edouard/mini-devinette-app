@@ -1,0 +1,20 @@
+.body {
+    background-color: gray; /* Couleur de fond bleu nuit */
+    color: white; /* Texte en blanc */
+    padding: 20px; /* Espacement intérieur */
+    border-radius: 10px; /* Coins arrondis */
+    width: 300px; /* Largeur du carré */
+    margin: 0 auto; /* Centrer horizontalement */
+    text-align: center; /* Centrer le texte */
+    margin-top: 150px;
+  }
+  
+  .form-container {
+    margin-top: 20px; /* Espacement entre le texte et le formulaire */
+  }
+  
+  .button-container {
+    margin-top: 20px; /* Espacement entre le formulaire et le bouton */
+    border-radius: 10px;
+  }
+  
